@@ -343,6 +343,34 @@ a {
 
           <div class="row">
 
+            <a class="col-sm-6 col-xs-12" href="http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=15847" target="_blank">
+              <div class="card card--big">
+                <div style="background-image: url(ludum_boulder1.gif)" class="card__image"></div>
+                <h2 class="card__title">The Temple of Sharaab</h2><span class="card__subtitle">By Elliot Fiske</span>
+                <p class="card__text">Delve into the Temple of Sharaab, dodging deadly traps and solving devious puzzles! Made for Ludum Dare 36.</p>
+                <div class="card__action-bar">
+                  <button class="card__button">UNREAL 4</button>
+                  <button class="card__button">GAME JAM</button>
+                </div>
+              </div>
+            </a>
+
+            <a class="col-sm-6 col-xs-12" href="http://elliotfiske.com/shift" target="_blank">
+              <div class="card card--big">
+                <div style="background-image: url(shapes.png)" class="card__image"></div>
+                <h2 class="card__title">You Have to Shift the Shapes</h2><span class="card__subtitle">By Elliot Fiske</span>
+                <p class="card__text">Shift those shapes! Completed in 72 hours for Ludum Dare 35. Earned 32nd best 'fun' out of 1638 entries.</p>
+                <div class="card__action-bar">
+                  <button class="card__button">UNITY 2D</button>
+                  <button class="card__button">GAME JAM</button>
+                </div>
+              </div>
+            </a>
+          </div>
+
+
+          <div class="row">
+
             <a class="col-sm-6 col-xs-12" href="http://elliotfiske.com/slumber" target="_blank">
               <div class="card card--big">
                 <div style="background-image: url(slumber.png)" class="card__image"></div>
