@@ -355,7 +355,7 @@ a {
               </div>
             </a>
 
-            <a class="col-sm-6 col-xs-12" href="http://elliotfiske.com/shift" target="_blank">
+            <a class="col-sm-6 col-xs-12" href="http://elliotfiske.com/shift/index.php" target="_blank">
               <div class="card card--big">
                 <div style="background-image: url(portfolio/shapes.png)" class="card__image"></div>
                 <h2 class="card__title" style="color: black;"></h2><span class="card__subtitle">By Elliot Fiske</span>
