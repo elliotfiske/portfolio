@@ -306,7 +306,7 @@ a {
 
     <body>
         <p style="display: none">Check out my portfolio! It's got at least 2 games.</p>
-        <div class="container-fluid">
+        <div class="container">
 
           <div class="row" style="text-align: center; margin-bottom:20px;">
             <h1>Elliot Fiske</h1>
