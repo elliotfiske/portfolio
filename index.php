@@ -341,32 +341,34 @@ a {
           </div>
 
 
+
           <div class="row">
 
-            <a class="col-sm-6 col-xs-12" href="http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=15847" target="_blank">
-              <div class="card card--big">
-                <div style="background-image: url(portfolio/ludum_boulder1.gif)" class="card__image"></div>
-                <h2 class="card__title">The Temple of Sharaab</h2><span class="card__subtitle">By Elliot Fiske</span>
-                <p class="card__text">Delve into the Temple of Sharaab, dodging deadly traps and solving devious puzzles! Made for Ludum Dare 36.</p>
-                <div class="card__action-bar">
-                  <button class="card__button">UNREAL 4</button>
-                  <button class="card__button">GAME JAM</button>
-                </div>
-              </div>
-            </a>
+           <a class="col-sm-6 col-xs-12" href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=15847" target="_blank">
+             <div class="card card--big">
+               <div style="background-image: url(portfolio/roomba.png); background-position-y: 10px;" class="card__image"></div>
+               <h2 class="card__title" style="color: black;"></h2><span class="card__subtitle">By Elliot Fiske</span>
+               <p class="card__text">Jump into a multiplayer Roomba Battle Arena with your friends! Made for Ludum Dare 37. Earned 21st most 'fun' out of 1489 entries.</p>
+               <div class="card__action-bar">
+                 <button class="card__button">JUICY JS</button>
+                 <button class="card__button">GAME JAM</button>
+               </div>
+             </div>
+           </a>
 
-            <a class="col-sm-6 col-xs-12" href="http://elliotfiske.com/shift/index.php" target="_blank">
-              <div class="card card--big">
-                <div style="background-image: url(portfolio/shapes.png)" class="card__image"></div>
-                <h2 class="card__title" style="color: black;"></h2><span class="card__subtitle">By Elliot Fiske</span>
-                <p class="card__text">You have to shift the shapes!!! Completed in 72 hours for Ludum Dare 35. Earned 32nd best 'fun' out of 1638 entries.</p>
-                <div class="card__action-bar">
-                  <button class="card__button">UNITY 2D</button>
-                  <button class="card__button">GAME JAM</button>
-                </div>
-              </div>
-            </a>
+           <a class="col-sm-6 col-xs-12" href="https://www.airconsole.com/play/valhalla" target="_blank">
+             <div class="card card--big">
+               <div style="background-image: url(http://i.giphy.com/l3q2PEyc0S7xuKG1a.gif); background-position-y: -1px" class="card__image"></div>
+               <h2 class="card__title">Valhalla</h2><span class="card__subtitle">By Elliot Fiske</span>
+               <p class="card__text">An epic multiplayer battle where anyone can jump in on their phones! Presented at ICGJ 2016 with Max Linsenbard and Thomas Steinke.</p>
+               <div class="card__action-bar">
+                 <button class="card__button">AIRCONSOLE</button>
+                 <button class="card__button">GAME JAM</button>
+               </div>
+             </div>
+           </a>
           </div>
+
 
 
           <div class="row">
@@ -396,6 +398,35 @@ a {
               </div>
             </a>
           </div>
+
+
+
+           <div class="row">
+
+             <a class="col-sm-6 col-xs-12" href="http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=15847" target="_blank">
+               <div class="card card--big">
+                 <div style="background-image: url(portfolio/ludum_boulder1.gif)" class="card__image"></div>
+                 <h2 class="card__title">The Temple of Sharaab</h2><span class="card__subtitle">By Elliot Fiske</span>
+                 <p class="card__text">Delve into the Temple of Sharaab, dodging deadly traps and solving devious puzzles! Made for Ludum Dare 36.</p>
+                 <div class="card__action-bar">
+                   <button class="card__button">UNREAL 4</button>
+                   <button class="card__button">GAME JAM</button>
+                 </div>
+               </div>
+             </a>
+
+             <a class="col-sm-6 col-xs-12" href="http://elliotfiske.com/shift/index.php" target="_blank">
+               <div class="card card--big">
+                 <div style="background-image: url(portfolio/shapes.png)" class="card__image"></div>
+                 <h2 class="card__title" style="color: black;"></h2><span class="card__subtitle">By Elliot Fiske</span>
+                 <p class="card__text">You have to shift the shapes!!! Completed in 72 hours for Ludum Dare 35. Earned 32nd best 'fun' out of 1638 entries.</p>
+                 <div class="card__action-bar">
+                   <button class="card__button">UNITY 2D</button>
+                   <button class="card__button">GAME JAM</button>
+                 </div>
+               </div>
+             </a>
+           </div>
 
 
 
@@ -495,7 +526,7 @@ a {
                 </div>
               </div>
             </a>
-          </div>            
+          </div>
         </div>
 
     </body>
